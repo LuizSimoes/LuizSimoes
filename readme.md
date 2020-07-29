@@ -1,6 +1,6 @@
 # Olá, Eu sou o Luiz Simões 
 
-<img src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Simple%20Technology%20LinkedIn.gif" alt="Banner">
+<img src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Banner2.gif" alt="Banner">
 Sou apaixonado por Tecnologia, amo resolver problemas e aprender. Trabalho e acredito em ações que possam gerar um impacto positivo na vida das pessoas. Tenho convicção que o desenvolvimento de software permite que eu vivencie todas minhas paixões, por isso, me dedico para me tornar um desenvolvedor.
 
 
