@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Banner2.gif" alt="Banner">
 
-Curioso por natureza, __sou apaixonado por computadores e códigos💻️😍️. Amo resolver problemas e aprender.__ Comecei a estudar programação e eletrônica aos 12 anos de idade 💾️. Gosto muito de programação WEB e MOBILE e IoT. Gosto de “brincar” com impressão 3D e microcontroladores, como os ATMEL, PIC e ESP8266.
+Curioso por natureza, __sou apaixonado por computadores e códigos💻️😍️. Amo resolver problemas e aprender.__ Comecei a estudar programação e eletrônica aos 12 anos de idade 💾️. Gosto muito de programação WEB e MOBILE e IoT. Adoro “brincar” com impressão 3D e microcontroladores, como os ATMEL, PIC e ESP8266.
 Trabalho e acredito em ações que possam gerar um impacto positivo na vida das pessoas. Tenho convicção que o desenvolvimento de software permite que eu vivencie todas minhas paixões, por isso, me dedico para me tornar um desenvolvedor cada vez melhor.  
 ##
 
