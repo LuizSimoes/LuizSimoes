@@ -11,8 +11,9 @@ I work and believe in actions that can have a positive impact on people's lives.
 ##
 
 
-## Find me around the web 🌎: <a href="https://github.com/LuizSimoes"><img align="left" width="150" height="150" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/LuizSimoes-Octacat.png"></a>
+## Find me around the web 🌎:
+<a href="https://github.com/LuizSimoes"><img align="left" width="150" height="150" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/LuizSimoes-Octacat.png"></a>
 
-- Sharing updates on <a href="https://www.linkedin.com/in/luizefsimoes2020/"><img align="left" width="150" height="150" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/linked.png"></a> 💼
+<a href="https://www.linkedin.com/in/luizefsimoes2020/"><img align="left" width="150" height="150" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/linked.png"></a> 💼
 
-- Sharing updates on <a href="luizefsimoes@gmail.com"><img align="left" width="150" height="150" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/gmail.png"></a> 💼
+<a href="luizefsimoes@gmail.com"><img align="left" width="150" height="150" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/gmail.png"></a> 💼
