@@ -8,7 +8,7 @@ Trabalho e acredito em ações que possam gerar um impacto positivo na vida das 
 
 Curious by nature, __I am passionate about computers and codes💻️😍️. I love to solve problems and learn.__ I started studying programming and electronics at the age of 12 💾️. I really like WEB and MOBILE and IoT programming. I like to “play” with 3D printing and microcontrollers, such as ATMEL, PIC and ESP8266.
 I work and believe in actions that can have a positive impact on people's lives. I am convinced that software development allows me to experience all my passions, so I dedicate myself to become a better and better developer.  
-
+##
 
 
 ## Find me around the web 🌎: <a href="https://github.com/LuizSimoes"><img align="left" width="150" height="150" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/LuizSimoes-Octacat.png"></a>
