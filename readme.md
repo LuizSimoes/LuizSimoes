@@ -23,6 +23,7 @@ I work and believe in actions that can have a positive impact on people's lives.
 
 ## Programming Language and tools 🛠️ ⌨️:
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/Linux2.png">
+<img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/linux3.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/git.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/github.jpg">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/arduino.png">
