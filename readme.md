@@ -31,5 +31,5 @@ I work and believe in actions that can have a positive impact on people's lives.
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/vscode.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/HTML5.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/css.png">
-<img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/js.png">
+<img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/js6.png">
 
