@@ -17,3 +17,15 @@ I work and believe in actions that can have a positive impact on people's lives.
 <a href="https://www.linkedin.com/in/luizefsimoes2020/"><img align="left" width="50" height="50" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/linked.png"></a>
 
 <a href="mailto:luizefsimoes@gmail.com"><img align="left" width="50" height="50" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/gmail.png"></a>
+
+## Language and tools :🛠️ ⌨️
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/linux.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/git.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/github.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/arduino.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/c.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/vscode.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/html.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/css.png">
+<img align="left" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/icons/js.png">
+
