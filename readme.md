@@ -21,6 +21,8 @@ I work and believe in actions that can have a positive impact on people's lives.
 #  
 #  
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+
 ## Programming Language and tools 🛠️ ⌨️:
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/Linux2.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/linux3.png">
