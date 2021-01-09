@@ -18,7 +18,8 @@ I work and believe in actions that can have a positive impact on people's lives.
 <a href="https://www.linkedin.com/in/luizefsimoes2020/"><img align="left" width="50" height="50" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/linked.png"></a>
 <a href="mailto:luizefsimoes@gmail.com"><img align="left" width="50" height="50" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/gmail.png"></a>
 
-#  
+
+## 
 #  
 
 ## My Github stats
