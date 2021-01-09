@@ -22,7 +22,7 @@ I work and believe in actions that can have a positive impact on people's lives.
 #  
 
 ## My Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSimoes&theme=solarized-dark&layout=compact)](https://github.com/LuizSimoes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSimoes&theme=solarized-dark&layout=compact&langs_count=10)](https://github.com/LuizSimoes/github-readme-stats)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LuizSimoes&show_icons=true&theme=solarized-dark)
 
 
