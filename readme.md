@@ -43,4 +43,4 @@ I work and believe in actions that can have a positive impact on people's lives.
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/react.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/mysql.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/mongodb-logo.png">
-<img align="left" width="300" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/bar-loading.jpg">
+<img align="left" width="200" height="70" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/bar-loading.jpg">
