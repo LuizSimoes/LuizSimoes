@@ -45,4 +45,4 @@ I work and believe in actions that can have a positive impact on people's lives.
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/mongodb-logo.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/nodeJS.png">
 <img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/express.png">
-<img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/load.png">
+<img align="left" width="80" height="80" src="https://github.com/LuizSimoes/LuizSimoes/blob/master/Icons/load.jpeg">
