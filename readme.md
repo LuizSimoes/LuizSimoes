@@ -12,10 +12,10 @@ Antes de tudo isso virar carreira, já existia a curiosidade💻️😍️. Come
 
 Hoje, meu foco é construir soluções que sejam:
 
-úteis para quem usa;
-viáveis para quem desenvolve;
-relevantes para o negócio;
-sustentáveis no longo prazo.
+- Úteis para quem usa;
+- Viáveis para quem desenvolve;
+- Relevantes para o negócio;
+- Sustentáveis no longo prazo.
 
 __Tecnologia, para mim, não é o ponto de partida. É o meio para resolver problemas reais.__  
 ##  
@@ -26,10 +26,10 @@ Before all of this became a career, curiosity was already there 💻😍. I star
 
 Today, my focus is on building solutions that are:
 
-useful for the people who use them;
-feasible for those who build them;
-relevant to the business;
-sustainable in the long term.
+- Useful for the people who use them;
+- Feasible for those who build them;
+- Relevant to the business;
+- Sustainable in the long term.
 
 __For me, technology is not the starting point. It is the means to solve real problems.__
 ##  
